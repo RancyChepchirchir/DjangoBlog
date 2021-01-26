@@ -1,2 +1,2 @@
 # DjangoBlog
- Blog with Django
+ <br>Blog with Django<br> https://djangoblograncy.herokuapp.com/
